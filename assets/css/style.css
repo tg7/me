@@ -7,10 +7,10 @@ li {
 
 /* Main */
 
-#main {
+/*#main {
 
   background: url("../images/misc/main.jpg");
-  /*background-repeat: no-repeat;*/
+  background-repeat: no-repeat;
   background-size: contain;
    position: absolute;
     top: 0;
@@ -18,9 +18,10 @@ li {
     right: 0;
     bottom: 0;
 
-}
+}*/
 
-#mid {
+.full {
 
-  background-color: red;
+  height: 100vh;
+
 }
